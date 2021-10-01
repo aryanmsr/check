@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Aryan Mishra is a graduate student at Columbia University who is passionate about technology and business',
   siteKeywords:
-    'Aryan Mishra, Aryan, Mishra, aryanmsr, graduate student, python, analytics, R, Cricket Dataset, ML, New York, Columbia, Bocconi, Business, data',
+  'Aryan Mishra, Aryan, Mishra, aryanmsr, graduate student, python, analytics, R, Cricket Dataset, ML, New York, Columbia, Bocconi, Business, data',
   siteUrl: 'https://aryanmsr.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
@@ -21,7 +21,6 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/mishraaryan/',
     },
-
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/aryanmsr',

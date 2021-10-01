@@ -1,17 +1,17 @@
 ---
 date: '3'
-title: 'Cricket Leagues Dataset '
+title: 'Face Mask Detection'
 cover: 'face-mask.png'
-github: 'https://github.com/aryanmsr/professional_cricket_leagues_data'
-external: 'https://drive.google.com/file/d/12O0pSfLe5M7m73ix6uk5TLUgcQOVHulS/view'
+github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
+external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
 tech:
+  - OpenCV
+  - TensorFlow
+  - Keras
   - Python
-  - Snscrape
-  - TextBlob
-
 showInProjects: true
 ---
 
-The overall purpose of this project was to create a complete and clean dataset that would later be used to perform Econometric analysis on for my undergraduate [thesis](https://drive.google.com/file/d/12O0pSfLe5M7m73ix6uk5TLUgcQOVHulS/view).
+Face Mask Detection system to detect face masks in static images as well as in real-time video streams. Own custom dataset was built using Bing Search API and Kaggle.
 
-I extracted Twitter data from 10 different cricket leagues' Twitter accounts using the Python [snscrape](https://github.com/JustAnotherArchivist/snscrape) library. I also performed some basic sentiment analysis using Textblob to obtain polarity and subjectivity scores from the relevant tweets.
+Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).

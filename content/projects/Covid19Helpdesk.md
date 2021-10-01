@@ -1,15 +1,16 @@
 ---
-date: '2020-12-28'
-title: 'Basic Stock Market Analysis'
-github: 'https://github.com/aryanmsr/Basic_Stock_Market_Analysis'
-external: 'https://nbviewer.jupyter.org/github/aryanmsr/Basic_Stock_Market_Analysis/blob/main/Stock_Market_Analysis.ipynb'
+date: '2020-04-13'
+title: 'Covid-19 Helpdesk'
+github: 'https://github.com/chandrikadeb7/Covid-19-HelpDesk'
+external: 'https://www.youtube.com/watch?v=s9ivtzkpK6w&feature=youtu.be'
 tech:
-  - Python
-  - Pandas
-  - NumPy
-  - Matplotlib
+  - PHP
+  - Javascript
+  - TSQL
+  - HTML
+  - CSS
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
-Basic stock market analysis of three automotive companies: Tesla, GM & Ford.
+Covid-19 helpdesk for tracking moderate and high risk patients around us along with online doctor portal.

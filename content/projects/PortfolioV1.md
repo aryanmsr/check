@@ -1,13 +1,14 @@
 ---
 date: '2020-04-21'
-title: 'Vodafone TOBi Chatbot'
-github: 'https://github.com/aryanmsr/SMARTobi'
+title: 'Portfolio Version 1'
+github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1'
+external: 'https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/'
 tech:
-  - Python
-  - Sklearn
-  - Matplotlib
-  - pyLDAvis
+  - HTML
+  - CSS
+  - Javascript
+  - Bootstrap
 showInProjects: true
 ---
 
-NLP project for Vodafone Italy “TOBi” Hackathon 2019, where my team and I achieved second place for optimizing Vodafone's chatbot.
+Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!
